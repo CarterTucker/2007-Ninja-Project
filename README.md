@@ -1,12 +1,48 @@
-## 2007-Ninja-Project
-# Goals
-1. Rebuild a 2007 Kawasaki Ninja 250 from a parts bike
-2. Renew the electronics with modern, digital sensors and displays
-3. Fabricate new ferrings, an airbox, and frame accessories from scratch
-4. Finish with a practically different bike that operates at the level of modern bikes
-# Completed Tasks
-- fluids change
-- complete teardown
-- carburetor clean and rebuild
-- carburetor replacement (in progress)
+# 2007 Kawasaki Ninja 250 Restoration & Modernization
 
+## Overview
+This project involves restoring a 2007 Kawasaki Ninja 250 from a parts bike and modernizing several mechanical and electrical systems. The goal is to rebuild the motorcycle to reliable operating condition while exploring opportunities for aerodynamic improvements and updated digital instrumentation.
+
+---
+
+## Project Goals
+
+- Restore the motorcycle to full mechanical functionality
+- Replace aging analog electronics with modern digital sensors and displays to improve tuning capabilities
+- Design and fabricate custom components including fairings and an airbox
+- Evaluate aerodynamic improvements through custom bodywork design
+
+---
+
+## Completed Work
+
+- Full motorcycle teardown and inspection
+- Engine fluid replacement and baseline maintenance
+- Disassembly, cleaning, and rebuild of dual carburetors
+- Documentation of existing throttle linkage and intake geometry
+
+---
+
+## Current Work
+
+- Replacement carburetor installation and tuning
+- Planning upgrades to electronic instrumentation and sensor systems (priorities being the odometer, gear selector, and speedometer)
+
+---
+
+## Tools & Methods
+
+- Mechanical disassembly and inspection
+- Carburetor rebuilding and tuning
+- Hand tools and mechanical measurement
+- Electrical system documentation
+
+---
+
+## Images
+
+### Initial Condition
+![Bike](images/bike_before.jpg)
+
+### Engine and Carburetor Work
+![Carburetor](images/carb_rebuild.jpg)
