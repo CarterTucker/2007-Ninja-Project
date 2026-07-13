@@ -83,12 +83,4 @@ Circuit diagram coming soon.
 ## Repository Structure
 
 ```
-.
-├── README.md
-├── docs/                  # service manual, reference PDFs
-├── media/
-│   ├── images/            # build photos
-│   └── videos/            # short clips (see note above on embedding)
-└── software/
-    └── rpm-monitor/        # spark-amp RPM tap: code + circuit diagram
-```
+.\n├── README.md\n├── docs/                  # service manual, reference PDFs\n├── media/\n│   ├── images/            # build photos\n│   └── videos/            # short clips (see note above on embedding)\n└── software/\n    └── rpm-monitor/        # spark-amp RPM tap: code + circuit diagram\n```\n\n<p align="center">\n  <img src="/Gallery/complete-bike.png" height="200" />\n  <img src="/Gallery/old-carburetor-original.png" width="200" />\n  <img src="/Gallery/old-carburetor-clean.png" width="200" />\n  <img src="/Gallery/new-carburetor.png" width="200" />\n</p>
