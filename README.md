@@ -1,3 +1,9 @@
+
+https://github.com/user-attachments/assets/0f0e590d-f06c-4540-975c-e8c0d162de6f
+
+
+https://github.com/user-attachments/assets/33337b49-ee68-4e9b-9f2c-521c3f5433c5
+
 # 2007 Kawasaki Ninja 250 Restoration & Modernization
 
 ![Reassembled bike](media/images/complete-bike.jpg)
@@ -49,12 +55,11 @@ Short clips from the bench and first start-up.
 
 | Clip | Description |
 |---|---|
-| [Fuel Setup](media/videos/gas-setup.mp4) | Temporary replacement gas tank. |
-| [First Start](media/videos/first-start.mp4) | Engine's first start after the old carb work (on ether, poor compression prevented prolonged idle) |
-| [Ignition Testing](media/videos/switch-start.mp4) | Confirming the bike will turn over before checking and verifying that the starter solenoid is malfunctioning (no start previously). |
+| [Fuel Setup](https://github.com/user-attachments/assets/872d3bfc-2620-48bd-86b6-d13915ba0b70) | Temporary replacement gas tank. |
+| [First Start](https://github.com/user-attachments/assets/0f34fd88-7198-4c6d-a480-0f90c58ae4d9) | Engine's first start after the old carb work (on ether, poor compression prevented prolonged idle) |
+| [Ignition Testing](https://github.com/user-attachments/assets/f7a7f64f-a92a-467b-8ea9-f415bb9d4b18) | Confirming the bike will turn over before checking and verifying that the starter solenoid is malfunctioning (no start previously). |
 
 ---
-
 ## Documentation
 Factory/aftermarket reference material lives in [`docs/`](docs/).
 
