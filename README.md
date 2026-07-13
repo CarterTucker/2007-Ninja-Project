@@ -16,13 +16,13 @@ custom bodywork along the way.
 
 ## Progress
 
-### ✅ Completed
+### Completed
 - Full motorcycle teardown and inspection
 - Engine fluid replacement and baseline maintenance
 - Disassembly, cleaning, and rebuild of dual carburetors
 - Documentation of existing throttle linkage and intake geometry
 
-### 🔧 In Progress
+### In Progress
 - Replacement carburetor installation and tuning
 - Planning upgrades to electronic instrumentation and sensor systems
   (priorities: odometer, gear selector, speedometer)
@@ -40,7 +40,7 @@ Full teardown to bare frame for inspection before any rebuild work started.
 The original dual carburetors were pulled, cleaned, and inspected. A
 replacement unit is now being installed and tuned in their place.
 
-| As removed | Cleaned (bore detail) | Replacement, installed |
+| Original | Cleaned (bore detail) | Replacement |
 |:---:|:---:|:---:|
 | ![Carb as removed](media/images/carb-before.jpg) | ![Carb bore cleaned](media/images/carb-cleaned.jpg) | ![Replacement carb](media/images/carb-new.jpg) |
 
