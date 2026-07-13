@@ -42,7 +42,7 @@ This project involves restoring a 2007 Kawasaki Ninja 250 from a parts bike and 
 ## Images
 
 <p align="center">
-  <img src="/Gallery/complete-bike.png" width="200" />
+  <img src="/Gallery/complete-bike.png" height="200" />
   <img src="/Gallery/old-carburetor-original.png" width="200" />
   <img src="/Gallery/old-carburetor-clean.png" width="200" />
   <img src="/Gallery/new-carburetor.png" width="200" />
