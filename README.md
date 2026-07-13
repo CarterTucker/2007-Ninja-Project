@@ -49,18 +49,9 @@ Short clips from the bench and first start-up.
 
 | Clip | Description |
 |---|---|
-| [▶ Fuel / gas setup](media/videos/gas-setup.mp4) | Fuel line and petcock setup ahead of first start |
-| [▶ First start](media/videos/first-start.mp4) | Engine's first start after the carb work |
-| [▶ Kill switch test](media/videos/switch-start.mp4) | Confirming the kill switch cuts ignition properly |
-
-> **Note on video playback:** GitHub doesn't play `.mp4` files inline just
-> because they're linked from the repo — the links above will open/download
-> the raw file. To get a real inline player (like the ones you see in other
-> project READMEs), open this file in the GitHub web editor and drag each
-> video directly into the text box. GitHub uploads it to their own CDN and
-> inserts a `github.com/user-attachments/assets/...` link, which *does*
-> render as a playable video. Swap the links above for those once you've done
-> that for each clip.
+| [Fuel Setup](media/videos/gas-setup.mp4) | Temporary replacement gas tank. |
+| [First Start](media/videos/first-start.mp4) | Engine's first start after the old carb work (on ether, poor compression prevented prolonged idle) |
+| [Ignition Testing](media/videos/switch-start.mp4) | Confirming the bike will turn over before checking and verifying that the starter solenoid is malfunctioning (no start previously). |
 
 ---
 
@@ -79,8 +70,3 @@ Circuit diagram coming soon.
 - Electrical system documentation
 
 ---
-
-## Repository Structure
-
-```
-.\n├── README.md\n├── docs/                  # service manual, reference PDFs\n├── media/\n│   ├── images/            # build photos\n│   └── videos/            # short clips (see note above on embedding)\n└── software/\n    └── rpm-monitor/        # spark-amp RPM tap: code + circuit diagram\n```\n\n<p align="center">\n  <img src="/Gallery/complete-bike.png" height="200" />\n  <img src="/Gallery/old-carburetor-original.png" width="200" />\n  <img src="/Gallery/old-carburetor-clean.png" width="200" />\n  <img src="/Gallery/new-carburetor.png" width="200" />\n</p>
