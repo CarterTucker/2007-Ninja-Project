@@ -1,9 +1,3 @@
-
-https://github.com/user-attachments/assets/0f0e590d-f06c-4540-975c-e8c0d162de6f
-
-
-https://github.com/user-attachments/assets/33337b49-ee68-4e9b-9f2c-521c3f5433c5
-
 # 2007 Kawasaki Ninja 250 Restoration & Modernization
 
 ![Reassembled bike](media/images/complete-bike.jpg)
