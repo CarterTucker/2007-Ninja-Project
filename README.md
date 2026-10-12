@@ -63,15 +63,6 @@ GitHub renders repository images directly in a README, so a separate gallery web
 
 ### Engine teardown and rebuild
 
-<p align="center">
-  <img src="media/images/complete-bike.jpg" alt="Complete 2007 Kawasaki Ninja 250" width="60%">
-</p>
-
-<p align="center">
-  <img src="media/images/naked-bike.jpg" alt="Ninja 250 with bodywork removed" width="30%">
-  <img src="media/images/carb-before.jpg" alt="Original carburetor before cleaning" width="30%">
-  <img src="media/images/carb-cleaned.jpg" alt="Original carburetor after ultrasonic cleaning" width="30%">
-</p>
 
 <p align="center">
   <img src="media/images/carb-new.jpg" alt="Replacement carburetor" width="30%">
