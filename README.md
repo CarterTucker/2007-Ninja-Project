@@ -214,20 +214,12 @@ Recommended documentation practices:
 
 ## Why I started this project
 
-> **TODO:** In your own voice, explain why you took on a free parts bike, what made the project interesting, and what you want to learn or build by the end.
-
 ## What I learned
-
-> **TODO:** Add lessons from the actual work. Possible topics include diagnosing faults without replacing parts blindly, learning from a carburetor reassembly mistake, repairing a wiring harness, using measurements to distinguish mechanical hypotheses, and designing electronics around a real-world signal.
 
 ## Acknowledgments
 
-> **TODO:** Credit anyone who materially helped with the motorcycle, tools, facilities, or technical advice. Add your roommate's contribution if desired.
-
 ## License
-
-TODO — choose a license for original documentation, code, and CAD files. A motorcycle service manual may be copyrighted; do not assume that placing it in `docs/` makes redistribution permissible. Consider linking to an authorized source instead of committing the manual.
 
 ## Contact
 
-Carter Tucker · [GitHub](https://github.com/CarterTucker)
+Carter Tucker · [LinkedIn](https://www.linkedin.com/in/carter-tucker-36083b32a/)
