@@ -64,52 +64,44 @@ GitHub renders repository images directly in a README, so a separate gallery web
 ### Engine teardown and rebuild
 
 <p align="center">
-  <img src="media/images/complete-bike.jpg" alt="Complete 2007 Kawasaki Ninja 250" width="70%">
+  <img src="media/images/complete-bike.jpg" alt="Complete 2007 Kawasaki Ninja 250" width="60%">
 </p>
 
 <p align="center">
-  <img src="media/images/naked-bike.jpg" alt="Ninja 250 with bodywork removed" width="70%">
+  <img src="media/images/naked-bike.jpg" alt="Ninja 250 with bodywork removed" width="30%">
+  <img src="media/images/carb-before.jpg" alt="Original carburetor before cleaning" width="30%">
+  <img src="media/images/carb-cleaned.jpg" alt="Original carburetor after ultrasonic cleaning" width="30%">
 </p>
 
 <p align="center">
-  <img src="media/images/carb-before.jpg" alt="Original carburetor before cleaning" width="32%">
-  <img src="media/images/carb-cleaned.jpg" alt="Original carburetor after cleaning" width="32%">
-  <img src="media/images/carb-new.jpg" alt="Replacement carburetor" width="32%">
+  <img src="media/images/carb-new.jpg" alt="Replacement carburetor" width="30%">
+  <img src="media/images/engine-removal1.JPG" alt="Preparing for engine removal" width="30%">
+  <img src="media/images/engine-removal2.JPG" alt="Lowering the engine" width="30%">
 </p>
 
 <p align="center">
-  <img src="media/images/engine-removal1.JPG" alt="Preparing for engine removal" width="48%">
-  <img src="media/images/engine-removal2.JPG" alt="Lowering the engine" width="48%">
+  <img src="media/images/engine-in-elevator.JPG" alt="Engine transported in dorm elevator" width="30%">
+  <img src="media/images/engine-on-desk.JPG" alt="Removed engine on work surface" width="30%">
+  <img src="media/images/engine-cylinders-removed.JPG" alt="Engine with cylinders removed" width="30%">
 </p>
 
 <p align="center">
-  <img src="media/images/engine-in-elevator.JPG" alt="Engine transported in dorm elevator" width="48%">
-  <img src="media/images/engine-on-desk.JPG" alt="Removed engine on work surface" width="48%">
+  <img src="media/images/engine-cylinders.JPG" alt="Removed engine cylinders" width="30%">
+  <img src="media/images/engine-pistons-cleaned.JPG" alt="Cleaned engine pistons" width="30%">
+  <img src="media/images/engine-valves.JPG" alt="Engine valves" width="30%">
 </p>
 
 <p align="center">
-  <img src="media/images/engine-cylinders-removed.JPG" alt="Engine with cylinders removed" width="48%">
-  <img src="media/images/engine-cylinders.JPG" alt="Removed engine cylinders" width="48%">
+  <img src="media/images/engine-camshaft.JPG" alt="Engine camshaft" width="30%">
+  <img src="media/images/engine-cam-caps.JPG" alt="Camshaft caps" width="30%">
+  <img src="media/images/engine-rocker-arms.JPG" alt="Engine rocker arms" width="30%">
 </p>
 
 <p align="center">
-  <img src="media/images/engine-pistons-cleaned.JPG" alt="Cleaned engine pistons" width="48%">
-  <img src="media/images/engine-valves.JPG" alt="Engine valves" width="48%">
+  <img src="media/images/camshaft-chain-tensioner.JPG" alt="Camshaft chain tensioner" width="30%">
+  <img src="media/images/engine-timing.JPG" alt="Engine timing components and timing marks" width="30%">
 </p>
 
-<p align="center">
-  <img src="media/images/engine-camshaft.JPG" alt="Engine camshaft" width="48%">
-  <img src="media/images/engine-cam-caps.JPG" alt="Camshaft caps" width="48%">
-</p>
-
-<p align="center">
-  <img src="media/images/engine-rocker-arms.JPG" alt="Engine rocker arms" width="48%">
-  <img src="media/images/camshaft-chain-tensioner.JPG" alt="Camshaft chain tensioner" width="48%">
-</p>
-
-<p align="center">
-  <img src="media/images/engine-timing.JPG" alt="Engine timing components and timing marks" width="65%">
-</p>
 
 ### Electrical troubleshooting and instrumentation
 
