@@ -94,8 +94,6 @@ GitHub renders repository images directly in a README, so a separate gallery web
 </p>
 
 
-### Electrical troubleshooting and instrumentation
-
 ## Mechanical restoration
 
 ### Carburetor diagnosis
