@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/CAD-Frame%20model-6B7280?style=flat-square" alt="CAD: frame model">
 </p>
 
-**Author:** Carter Tucker · [GitHub](https://github.com/CarterTucker)
-
-> **TODO:** Add a project-status date and any personal website or LinkedIn link you want included.
+**Author:** Carter Tucker
 
 ## Overview
 
@@ -43,8 +41,6 @@ This repository documents the work as it progresses, including unsuccessful appr
 | Frame CAD model | In progress |
 | Digital instrumentation | Experimental / future development |
 | Repaint or powder coating | Planned |
-
-> **TODO:** Update this table as work changes, especially after reassembly, a successful start, and post-rebuild checks.
 
 ## Project gallery
 
@@ -81,8 +77,6 @@ GitHub renders repository images directly in a README, so a separate gallery web
 > For technical part photos, include a scale or identifying label when useful.
 
 ### Electrical troubleshooting and instrumentation
-
-> **TODO:** Add photos of the repaired wiring, ignition circuit, temporary solenoid bypass setup, and Arduino/optocoupler test circuit. A labeled wiring diagram would make this section more useful than photos alone.
 
 ## Mechanical restoration
 
