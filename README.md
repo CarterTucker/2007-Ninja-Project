@@ -21,8 +21,6 @@ This project began with a non-running 2007 Kawasaki Ninja 250 acquired for free 
 
 Completed work includes carburetor troubleshooting and replacement, repair of a damaged wiring harness, ignition troubleshooting, and preliminary optocoupler-based sensing of ignition-coil signals with an Arduino Nano. The engine is currently removed from the motorcycle, with the cylinder head and cylinders separated from the crankcase while the top end is inspected and rebuilt.
 
-This repository documents the work as it progresses, including unsuccessful approaches and unresolved diagnoses. It distinguishes completed work from experiments, current work, and future plans.
-
 ## Current status
 
 | Workstream | Status |
