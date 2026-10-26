@@ -236,4 +236,4 @@ Recommended documentation practices:
 
 ## Contact
 
-Carter Tucker · [LinkedIn](https://www.linkedin.com/in/carter-tucker-36083b32a/)
+Carter Tucker · [LinkedIn](https://www.linkedin.com/in/carter-tucker-36083b32a/) 
